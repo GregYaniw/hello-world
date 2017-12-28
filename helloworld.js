@@ -1,5 +1,4 @@
 <script>
-
-alert('hello world branch 1');
-
+  
+alert('hello world branch 2');
 </script>
